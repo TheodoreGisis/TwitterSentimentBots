@@ -10,4 +10,3 @@ In this sentiment trading bot we are using Twitter API to get live comments and 
 
 -Twitter Account
  
- ## Libraries 
