@@ -7,4 +7,4 @@ In this sentiment trading bot we are using Twitter API to get live comments and 
 -Binance Account
 -Binancetestnet Account(not necessary)
  
- ##Libraries 
+ ## Libraries 
