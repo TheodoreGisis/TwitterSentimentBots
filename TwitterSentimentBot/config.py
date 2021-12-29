@@ -1,12 +1,12 @@
-TWITTER_BEARER_TOKEN = "AAAAAAAAAAAAAAAAAAAAAOn2VQEAAAAAEwPJLuG8%2Ftn%2B%2FHuFjXA879Vy%2BB4%3DWDoGIpzpQJAf1ToiZpM9WbntQ3Np6OUtTirVcnDZYPNfyjQDk4"
+TWITTER_BEARER_TOKEN = "************"
 
-REDDID_ID = "W6xFbeYS3_AgVcafsrtATQ"
-REDDID_SECRET = "TvsU-lPFt0lW1R-g5xKYp-IoDVBYlA"
-REDDIT_USER ="Theogisis"
-REDDIT_PASS = "atsaoleole123"
+REDDID_ID = "************"
+REDDID_SECRET = "************""
+REDDIT_USER =""************""
+REDDIT_PASS = ""************""
 
-Testnet_Binance_Api_key = "d7037593a7e311b98f0fda868fba4690f113e91b607cbf33a023b7ff7d88c438"
-Testnet_Binance_Secret_key="ed950db6a08b34be01a948712616da58a18859078b2d35f27ceb3369c31d1e77"
+Testnet_Binance_Api_key = ""************""
+Testnet_Binance_Secret_key=""************""
 
-Binance_Api_Key = "k7NNc0h4nrlgnh8KHQ63zPxNgpm2m6vRkAK8nLlzSIc50T0lezuqWGpk9RcVeoqS"
-Binance_secret_key = "fZXL6gVjsPUPhxgdLmnyRoBKdGRD3klEHeJN4ZFWz4MjzsRjaEepOnyNxCP6BRpC"
+Binance_Api_Key = ""************""
+Binance_secret_key = ""************""
