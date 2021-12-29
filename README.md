@@ -5,7 +5,7 @@ In this sentiment trading bot we are using Twitter API to get live comments and 
 
 Ernie is a machine learning python pakage that helps our trading bot to "learn" from the new tweets.[More information about Ernie](https://github.com/labteral/ernie).
 
-Next we incorporate the CNN fear and greed index to make our bot more effective.
+Next we incorporate the CNN fear and greed index to make our bot more effective.This index shows what emotions is driving the market.
 
 ## Requirements
 -Binance Account
