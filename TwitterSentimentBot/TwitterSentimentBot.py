@@ -180,13 +180,13 @@ class TwitterSentimentBot:
                                         print("--------------BUY...BUT WE OWN")
                                     else:
                                         print("--------------IT'S TIME TO BUY")
-                                        #order= self.create_an_order(symbol=TRADE_SYMBOL,side="BUY",quantity=TRADE_QUANTITY)
+                                        order= self.create_an_order(symbol=TRADE_SYMBOL,side="BUY",quantity=TRADE_QUANTITY)
                                         if order:
                                             self.position = True
                                 elif endlist.count('Bearish') >6 and live_CNN_index >50:
                                     if self.position:
                                         print("--------------TIME TO SELL")
-                                        #order= self.create_an_order(symbol=TRADE_SYMBOL,side="SELL",quantity=TRADE_QUANTITY)
+                                        order= self.create_an_order(symbol=TRADE_SYMBOL,side="SELL",quantity=TRADE_QUANTITY)
                                         if order:
                                             self.position = False
                                     else:
